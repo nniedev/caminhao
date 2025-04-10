@@ -25,3 +25,6 @@ O objetivo do trabalho é desenvolver meus conhecimentos sobre a Biblioteca Netw
 ## 🔬 Tecnologias Utilizadas
 - **Linguagem:** Python (NetworkX, Pandas, Matplot.lib e Numpy)
 - **Ambiente:** Google Collaboratory e Jupyter Notebook
+
+## 🔗 Link do Desafio Original
+- https://www.beecrowd.com.br/repository/UOJ_1476.html
