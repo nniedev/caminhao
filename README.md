@@ -22,6 +22,6 @@ O objetivo do trabalho é desenvolver meus conhecimentos sobre a Biblioteca Netw
 - `Graphs_and_Social_2nd_Assignment.ipynb` - Notebook contendo o código.
 - `README.md` - Documento explicativo sobre o projeto.
 
-## 💪 Tecnologias Utilizadas
+## 🔬 Tecnologias Utilizadas
 - **Linguagem:** Python (NetworkX, Pandas, Matplot.lib e Numpy)
 - **Ambiente:** Google Collaboratory e Jupyter Notebook
